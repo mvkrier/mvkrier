@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mvkrier
-- 👀 I’m interested in molecular modelling, cheminforatics, crystal structure predictions
+- 👀 I’m interested in molecular modelling, chemøinformatics, crystal structure predictions
 - 🌱 I’m currently learning git, ...
 - 💞️ I’m looking to collaborate on solving chemical problems with informatics...
 - 📫 How to reach me ...Twitter, LinkedIn
