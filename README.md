@@ -22,8 +22,6 @@ I design and develop reproducible workflows for drug discovery and computational
 ## My Skills 🧠
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Cheminformatics-4B8BBE?style=for-the-badge&logo=chemistry&logoColor=white" /> <img src="https://img.shields.io/badge/Molecular_Modelling-0C4B33?style=for-the-badge&logo=biocontainers&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Analysis-009639?style=for-the-badge&logo=tableau&logoColor=white" />
 
 ## Highlights ✨
